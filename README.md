@@ -1,8 +1,10 @@
-# Project 11.1 - Event Handler
+# 📌 Project 11.1 - Event Handler
 
 This is a simple e-commerce web application built using React.js + vite, styled with Bootstrap. It allows users to browse a catalog of random products, add items to their shopping cart, and view the total price of their selected products. The cart is stored locally using localStorage, ensuring that user selections persist across page reloads
 
-## Features
+---
+
+## 🚀 Features
 
 - **Refined Display**:
   Product catalog display with images, descriptions, ratings, and price.
@@ -17,9 +19,11 @@ This is a simple e-commerce web application built using React.js + vite, styled 
   Remove products from the cart.
 
 - **Grand Total**:
-- Displays total price of items in the cart.
+  Displays total price of items in the cart.
 
-## Folder Structure
+---
+
+## 📂 Project Folder Structure
 
 ```cpp
 src/
@@ -33,12 +37,14 @@ src/
   └── index.js                    // Entry point of the application
 ```
 
-## How to Use
+---
+
+## 🏗️ How to Use
 
 1. **Clone the Repository:**
 
 ```bash
-  git clone
+  git clone https://github.com/Apostle1327/Project-11.1---Event-Handler.git
 ```
 
 2. **Navigate to the Project Directory:**
@@ -64,7 +70,9 @@ src/
 5. **Open in Browser:**
    Navigate to Localhost url in your web browser to view the application.
 
-## Screenshots
+---
+
+## 📷 Screenshots
 
 <img width="330" alt="Event Handler - 1" src="./src/Images/Event Handler - 1.png">
 <img width="330" alt="Event Handler - 2" src="./src/Images/Event Handler - 2.png">
@@ -73,13 +81,19 @@ src/
 <img width="330" alt="Event Handler - 5" src="./src/Images/Event Handler - 5.png">
 <img width="330" alt="Event Handler - 6" src="./src/Images/Event Handler - 6.png">
 
-## Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 - **HTML** : To Structure the App Layout.
 - **CSS** : To Style & Enhance the user Interface.
 - **JavaScript LocalStorage** :In this app, localStorage is used to save the cart data in the browser, allowing the cart to persist even after the page is reloaded. This ensures that users' selections are maintained across sessions.
 - **React + Vite + JSX (JavaScript & XML)** : React + Vite + JSX is a modern stack for building fast web apps. React provides reusable UI components, Vite offers fast development and optimized builds, and JSX allows writing HTML-like code in JavaScript for seamless UI creation.
 
-## License
+---
+
+## 📜 License
 
 This Project is Licensed under the MIT License.
+
+---
