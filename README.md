@@ -15,7 +15,7 @@ This is a simple e-commerce web application built using React.js + vite, styled 
 - **Modify Quantities**:
   Update product quantities (increase/decrease) in the cart.
 
-- **Discard Items**:  
+- **Discard Items**:
   Remove products from the cart.
 
 - **Grand Total**:
