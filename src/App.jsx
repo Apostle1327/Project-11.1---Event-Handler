@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <ProductNav />
+
       <div className="container">
         <Products />
       </div>
