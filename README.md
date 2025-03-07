@@ -25,7 +25,7 @@ This is a simple e-commerce web application built using React.js + vite, styled 
 
 ## 📂 Project Folder Structure
 
-```cpp
+```jsx
 src/
   ├── Components/
   │    ├── ProductNav.jsx         // Navigation bar component
